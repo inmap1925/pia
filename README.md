@@ -8,12 +8,16 @@ This activity consists of creating two files:
 - Readme.md (**Doc file**)
 - HelloWorld.py (**Python file**)
 
-## Repository Management
+## Others
 
-Github repository - [Github repository](https://github.com/inmap1925/pia)
+Additional Information:
 
-### Others
+### Repository
+
+Github repository - [https://github.com/inmap1925/pia](https://github.com/inmap1925/pia)
+
+### Gitflow
 
 This repository uses the gitflow workflow. 
-For more info visit this link: [Gitflow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow)
+For more info visit this link: [https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow)
 
